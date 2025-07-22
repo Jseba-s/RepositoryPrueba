@@ -52,6 +52,9 @@ bash
 Copiar
 Editar
 mvn spring-boot:run
+
+---
+
 🌐 Endpoints principales
 GET /api/materiales – Listar materiales
 
