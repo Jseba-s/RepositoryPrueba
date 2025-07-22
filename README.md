@@ -1,18 +1,23 @@
-# 📦 API RESTful de Prueba Técnica
 
-Este proyecto es una **API RESTful** desarrollada en **Java 21** con **Spring Boot**, diseñada para gestionar entidades como **Materiales**, **Proveedores** y **Categoría de Material**.  
-Sirve como ejemplo técnico de arquitectura limpia, buenas prácticas y documentación.
+# 📦 Prueba Técnica Backend Jr.
 
----
+Este proyecto es una API RESTful desarrollada como parte de una prueba técnica para la posición Backend Jr.  
+El objetivo es gestionar usuarios y productos, implementando registro, login, recuperación de contraseña y CRUD de productos.
 
-## ✅ Tecnologías utilizadas
-
+## 🚀 Tecnologías utilizadas
 - Java 21
 - Spring Boot
-- Spring Data JPA
+- Spring Security (JWT)
+- Hibernate / JPA
+- MySQL (o PostgreSQL)
 - Maven
-- Base de datos relacional (puede ser H2, MySQL, PostgreSQL, etc.)
-- IDE recomendado: IntelliJ IDEA, Eclipse o VS Code
+
+## ⚙️ Funcionalidades principales
+- Registro de usuarios
+- Login de usuarios
+- Recuperación de contraseña
+- Operaciones CRUD de productos (crear, leer, actualizar, eliminar)
+- Seguridad con autenticación mediante JWT
 
 ---
 
